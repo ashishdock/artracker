@@ -145,7 +145,7 @@ void _initializeThemeMode() {
           children: <Widget>[
             IconButton(
                 hoverColor: Colors.orange,
-                tooltip: "LOG OUT",
+                tooltip: "AR Module",
                 onPressed: () {
                   // context
                   //     .read<Auth>()
